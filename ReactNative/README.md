@@ -1,5 +1,17 @@
 # React Natvie 개발일지
 
+---
+
+## 20200513
+- [Async Storage](https://github.com/react-native-community/async-storage)
+
+### 오류
+
+1. Unsupported Modules Detected: Compilation is not supported for following modules: realm. Unfortunately you can't have non-Gradle Java modules and Android-Gradle modules in one project.
+
+2. Invariant Violation: Module AppRegistry is not a registered callabel module (calling runApplication)
+
+--- 
 
 ## 20200512
 - Daum Map Test
@@ -7,6 +19,7 @@
     - [x] 주소검색
     - [x] Marker
 
+---
 
 ## 20200511
 
@@ -22,6 +35,8 @@
 - [DaumMap](https://github.com/asata/react-native-daummap)
 - 오류
     - Task :app:mergeDexDebug FAILED
+
+---
 
 ## 20200507 Toast, Modal, QRCode, Splash, Google Login
 - 안드로이드 연결 작업
@@ -40,6 +55,7 @@
 - 생긴 버그들
     - SpawnSync adb enoent
 
+---
 
 ## 20200506
 
