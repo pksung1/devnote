@@ -1,5 +1,15 @@
 # React Natvie 개발일지
 
+
+- [x] [Back Button Test](https://reactnative.dev/docs/backhandler)
+- [x] [Redux](https://redux.js.org/)
+- [x] [Redux Thunk](https://github.com/reduxjs/redux-thunk)
+- [x] [Axios](https://github.com/axios/axios)
+- [ ] [AWS 연동준비](https://aws.amazon.com/ko/cognito/)
+    - [ ] [Google Login](https://docs.amplify.aws/lib/auth/social/q/platform/js)
+- 추가로 설치할 것
+    - [ ] Styled Component
+
 ---
 
 ## 20200513
