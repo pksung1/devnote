@@ -1,5 +1,16 @@
 # React Natvie 개발일지
 
+## 20200515
+
+### Redux
++ redux@4.0.5
+
+### Redux-Thunk
++ redux-thunk@2.3.0
+
+### Axios
++ axios@0.19.2
+
 ## 20200514
 
 - [x] [Back Button Test](https://reactnative.dev/docs/backhandler)
