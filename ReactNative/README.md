@@ -1,5 +1,6 @@
 # React Natvie 개발일지
 
+## 20200514
 
 - [x] [Back Button Test](https://reactnative.dev/docs/backhandler)
 - [x] [Redux](https://redux.js.org/)
